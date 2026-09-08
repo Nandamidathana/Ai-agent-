@@ -1,0 +1,6 @@
+Role,Instructions
+Travel Planner Agent,Understand the user's requirements and create the overall travel itinerary.
+Transport Agent,"Find and compare flights, trains, or buses based on cost and travel time."
+Hotel Agent,"Find suitable hotels and compare price, location, and facilities."
+Weather & Activity Agent,Check weather conditions and suggest suitable tourist places and activities.
+Budget Agent,Calculate the total trip cost and ensure the plan stays within the user's budget.
